@@ -1,5 +1,3 @@
-# Xinformer.github.io
-🧠 "Your digital companion for better writing—clarify your words and organize your thoughts instantly!
 <!DOCTYPE html>
 <html lang="en">
 <head>
